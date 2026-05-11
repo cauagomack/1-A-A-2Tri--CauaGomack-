@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-05-11T12:55:42.141798+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBIM",
+  "airport_name": "SBIM",
+  "airport_info": {},
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}

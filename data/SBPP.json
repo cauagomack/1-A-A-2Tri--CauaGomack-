@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-05-11T12:55:43.666166+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBPP",
+  "airport_name": "SBPP",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBPP",
+    "sg_aerodromo_iata": "PMG",
+    "descricao": "PONTA PORÃ - PONTA PORÃ - MS - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [
+    {
+      "callsign": "AZU4926",
+      "numero_voo": "4926",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "136",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBKP",
+      "destino_icao": "SBPP",
+      "partida_iso": "2026-05-11T08:45:00-03:00",
+      "chegada_iso": "2026-05-11T10:30:00-03:00",
+      "partida_brt": "08:45",
+      "chegada_brt": "10:30",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "AZU4927",
+      "numero_voo": "4927",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "136",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBPP",
+      "destino_icao": "SBKP",
+      "partida_iso": "2026-05-11T11:10:00-03:00",
+      "chegada_iso": "2026-05-11T12:40:00-03:00",
+      "partida_brt": "11:10",
+      "chegada_brt": "12:40",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
+    }
+  ]
+}

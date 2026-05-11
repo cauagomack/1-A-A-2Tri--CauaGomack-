@@ -1,0 +1,38 @@
+{
+  "updated_at": "2026-05-11T12:56:05.085084+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBSJ",
+  "airport_name": "SBSJ",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBSJ",
+    "sg_aerodromo_iata": "SJK",
+    "descricao": "PROFESSOR URBANO ERNESTO STUMPF - SÃO JOSÉ DOS CAMPOS - SP - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": [
+    {
+      "callsign": "GTI8538",
+      "numero_voo": "8538",
+      "airline_icao": "GTI",
+      "airline": "GTI",
+      "equipamento_icao": "B763",
+      "equipamento": "Boeing 767-300",
+      "assentos": "0",
+      "etapa": "1",
+      "tipo_operacao": "Internacional",
+      "tipo_servico": "NÃO REGULAR DE CARGA INTERNACIONAL",
+      "origem_icao": "SBSJ",
+      "destino_icao": "SBKP",
+      "partida_iso": "2026-05-11T07:45:00-03:00",
+      "chegada_iso": "2026-05-11T08:50:00-03:00",
+      "partida_brt": "07:45",
+      "chegada_brt": "08:50",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
+    }
+  ]
+}

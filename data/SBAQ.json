@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-05-11T12:56:06.009280+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBAQ",
+  "airport_name": "SBAQ",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBAQ",
+    "sg_aerodromo_iata": "AQA",
+    "descricao": "BARTOLOMEU DE GUSMÃO - ARARAQUARA - SP - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [
+    {
+      "callsign": "ACN5198",
+      "numero_voo": "5198",
+      "airline_icao": "ACN",
+      "airline": "ACN",
+      "equipamento_icao": "C208",
+      "equipamento": "C208",
+      "assentos": "9",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBKP",
+      "destino_icao": "SBAQ",
+      "partida_iso": "2026-05-11T14:50:00-03:00",
+      "chegada_iso": "2026-05-11T15:55:00-03:00",
+      "partida_brt": "14:50",
+      "chegada_brt": "15:55",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "ACN5199",
+      "numero_voo": "5199",
+      "airline_icao": "ACN",
+      "airline": "ACN",
+      "equipamento_icao": "C208",
+      "equipamento": "C208",
+      "assentos": "9",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBAQ",
+      "destino_icao": "SBKP",
+      "partida_iso": "2026-05-11T16:25:00-03:00",
+      "chegada_iso": "2026-05-11T17:20:00-03:00",
+      "partida_brt": "16:25",
+      "chegada_brt": "17:20",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
+    }
+  ]
+}

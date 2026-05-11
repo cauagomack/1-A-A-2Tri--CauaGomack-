@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-05-11T12:55:56.666675+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBCB",
+  "airport_name": "SBCB",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBCB",
+    "sg_aerodromo_iata": "CFB",
+    "descricao": "CABO FRIO - CABO FRIO - RJ - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}

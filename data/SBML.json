@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-05-11T12:56:06.478807+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBML",
+  "airport_name": "SBML",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBML",
+    "sg_aerodromo_iata": "MII",
+    "descricao": "FRANK MILOYE MILENKOVICH - MARÍLIA - SP - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [
+    {
+      "callsign": "AZU2918",
+      "numero_voo": "2918",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "AT76",
+      "equipamento": "ATR 72",
+      "assentos": "70",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBKP",
+      "destino_icao": "SBML",
+      "partida_iso": "2026-05-11T17:25:00-03:00",
+      "chegada_iso": "2026-05-11T18:30:00-03:00",
+      "partida_brt": "17:25",
+      "chegada_brt": "18:30",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "AZU4222",
+      "numero_voo": "4222",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "AT76",
+      "equipamento": "ATR 72",
+      "assentos": "70",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBML",
+      "destino_icao": "SBKP",
+      "partida_iso": "2026-05-11T19:00:00-03:00",
+      "chegada_iso": "2026-05-11T20:00:00-03:00",
+      "partida_brt": "19:00",
+      "chegada_brt": "20:00",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
+    }
+  ]
+}

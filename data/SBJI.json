@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-05-11T12:56:00.215498+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBJI",
+  "airport_name": "SBJI",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBJI",
+    "sg_aerodromo_iata": "JPR",
+    "descricao": "JI-PARANÁ - JI-PARANÁ - RO - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [
+    {
+      "callsign": "AZU2644",
+      "numero_voo": "2644",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "136",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBCY",
+      "destino_icao": "SBJI",
+      "partida_iso": "2026-05-11T12:05:00-03:00",
+      "chegada_iso": "2026-05-11T13:35:00-03:00",
+      "partida_brt": "12:05",
+      "chegada_brt": "13:35",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBCY",
+      "rota_nome": "Cuiaba"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "AZU2645",
+      "numero_voo": "2645",
+      "airline_icao": "AZU",
+      "airline": "Azul",
+      "equipamento_icao": "E295",
+      "equipamento": "Embraer E195-E2",
+      "assentos": "136",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBJI",
+      "destino_icao": "SBCY",
+      "partida_iso": "2026-05-11T14:15:00-03:00",
+      "chegada_iso": "2026-05-11T15:40:00-03:00",
+      "partida_brt": "14:15",
+      "chegada_brt": "15:40",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBCY",
+      "rota_nome": "Cuiaba"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-05-11T12:55:37.602874+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBFE",
+  "airport_name": "SBFE",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBFE",
+    "sg_aerodromo_iata": "N/I",
+    "descricao": "JOÃO DURVAL CARNEIRO - FEIRA DE SANTANA - BA - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}

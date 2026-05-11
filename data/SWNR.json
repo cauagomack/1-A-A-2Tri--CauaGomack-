@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-05-11T12:55:41.083843+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SWNR",
+  "airport_name": "SWNR",
+  "airport_info": {
+    "sg_aerodromo_icao": "SWNR",
+    "sg_aerodromo_iata": "",
+    "descricao": "NORTELÂNDIA - NORTELÂNDIA - MT - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}
