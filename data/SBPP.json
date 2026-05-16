@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T21:54:26.372025+00:00",
-  "data_referencia": "2026-05-15",
+  "updated_at": "2026-05-16T10:10:44.574108+00:00",
+  "data_referencia": "2026-05-16",
   "airport_icao": "SBPP",
   "airport_name": "SBPP",
   "airport_info": {
@@ -10,52 +10,6 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [
-    {
-      "callsign": "AZU4926",
-      "numero_voo": "4926",
-      "airline_icao": "AZU",
-      "airline": "Azul",
-      "equipamento_icao": "E295",
-      "equipamento": "Embraer E195-E2",
-      "assentos": "136",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBKP",
-      "destino_icao": "SBPP",
-      "partida_iso": "2026-05-15T08:45:00-03:00",
-      "chegada_iso": "2026-05-15T10:30:00-03:00",
-      "partida_brt": "08:45",
-      "chegada_brt": "10:30",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBKP",
-      "rota_nome": "Campinas / Viracopos"
-    }
-  ],
-  "departures": [
-    {
-      "callsign": "AZU4927",
-      "numero_voo": "4927",
-      "airline_icao": "AZU",
-      "airline": "Azul",
-      "equipamento_icao": "E295",
-      "equipamento": "Embraer E195-E2",
-      "assentos": "136",
-      "etapa": "1",
-      "tipo_operacao": "Domestico",
-      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBPP",
-      "destino_icao": "SBKP",
-      "partida_iso": "2026-05-15T11:10:00-03:00",
-      "chegada_iso": "2026-05-15T12:40:00-03:00",
-      "partida_brt": "11:10",
-      "chegada_brt": "12:40",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "SBKP",
-      "rota_nome": "Campinas / Viracopos"
-    }
-  ]
+  "arrivals": [],
+  "departures": []
 }
