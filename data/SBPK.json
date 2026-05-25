@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T21:52:10.733536+00:00",
-  "data_referencia": "2026-05-24",
+  "updated_at": "2026-05-25T12:24:04.530755+00:00",
+  "data_referencia": "2026-05-25",
   "airport_icao": "SBPK",
   "airport_name": "SBPK",
   "airport_info": {
@@ -10,6 +10,52 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [],
-  "departures": []
+  "arrivals": [
+    {
+      "callsign": "TAM3250",
+      "numero_voo": "3250",
+      "airline_icao": "TAM",
+      "airline": "LATAM",
+      "equipamento_icao": "A319",
+      "equipamento": "Airbus A319",
+      "assentos": "144",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBGR",
+      "destino_icao": "SBPK",
+      "partida_iso": "2026-05-25T16:30:00-03:00",
+      "chegada_iso": "2026-05-25T18:30:00-03:00",
+      "partida_brt": "16:30",
+      "chegada_brt": "18:30",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBGR",
+      "rota_nome": "Sao Paulo / Guarulhos"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "TAM3251",
+      "numero_voo": "3251",
+      "airline_icao": "TAM",
+      "airline": "LATAM",
+      "equipamento_icao": "A319",
+      "equipamento": "Airbus A319",
+      "assentos": "144",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBPK",
+      "destino_icao": "SBGR",
+      "partida_iso": "2026-05-25T19:10:00-03:00",
+      "chegada_iso": "2026-05-25T21:10:00-03:00",
+      "partida_brt": "19:10",
+      "chegada_brt": "21:10",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBGR",
+      "rota_nome": "Sao Paulo / Guarulhos"
+    }
+  ]
 }
