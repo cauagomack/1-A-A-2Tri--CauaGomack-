@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-04T11:46:44.695855+00:00",
+  "updated_at": "2026-06-04T14:44:52.372674+00:00",
   "data_referencia": "2026-06-04",
   "airport_icao": "SBPS",
   "airport_name": "Porto Seguro",
   "airport_info": {
-    "sg_aerodromo_icao": "SBFI",
-    "sg_aerodromo_iata": "IGU",
-    "descricao": "CATARATAS - FOZ DO IGUAÇU - PR - BRASIL"
+    "sg_aerodromo_icao": "SBPS",
+    "sg_aerodromo_iata": "BPS",
+    "descricao": "PORTO SEGURO - PORTO SEGURO - BA - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
