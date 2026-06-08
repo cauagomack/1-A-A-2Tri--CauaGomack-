@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T22:00:19.572949+00:00",
-  "data_referencia": "2026-06-07",
+  "updated_at": "2026-06-08T13:01:59.713184+00:00",
+  "data_referencia": "2026-06-08",
   "airport_icao": "SBVG",
   "airport_name": "SBVG",
   "airport_info": {
@@ -10,6 +10,52 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [],
-  "departures": []
+  "arrivals": [
+    {
+      "callsign": "ACN5252",
+      "numero_voo": "5252",
+      "airline_icao": "ACN",
+      "airline": "ACN",
+      "equipamento_icao": "C208",
+      "equipamento": "C208",
+      "assentos": "9",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBCF",
+      "destino_icao": "SBVG",
+      "partida_iso": "2026-06-08T09:05:00-03:00",
+      "chegada_iso": "2026-06-08T10:30:00-03:00",
+      "partida_brt": "09:05",
+      "chegada_brt": "10:30",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBCF",
+      "rota_nome": "Belo Horizonte / Confins"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "ACN5253",
+      "numero_voo": "5253",
+      "airline_icao": "ACN",
+      "airline": "ACN",
+      "equipamento_icao": "C208",
+      "equipamento": "C208",
+      "assentos": "9",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBVG",
+      "destino_icao": "SBCF",
+      "partida_iso": "2026-06-08T10:55:00-03:00",
+      "chegada_iso": "2026-06-08T12:15:00-03:00",
+      "partida_brt": "10:55",
+      "chegada_brt": "12:15",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBCF",
+      "rota_nome": "Belo Horizonte / Confins"
+    }
+  ]
 }
