@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T22:19:34.599733+00:00",
-  "data_referencia": "2026-06-09",
+  "updated_at": "2026-06-10T12:17:04.415800+00:00",
+  "data_referencia": "2026-06-10",
   "airport_icao": "SBSJ",
   "airport_name": "SBSJ",
   "airport_info": {
@@ -10,6 +10,74 @@
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
-  "arrivals": [],
-  "departures": []
+  "arrivals": [
+    {
+      "callsign": "GLO2116",
+      "numero_voo": "2116",
+      "airline_icao": "GLO",
+      "airline": "GOL",
+      "equipamento_icao": "B738",
+      "equipamento": "Boeing 737-800",
+      "assentos": "186",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBGL",
+      "destino_icao": "SBSJ",
+      "partida_iso": "2026-06-10T18:10:00-03:00",
+      "chegada_iso": "2026-06-10T19:15:00-03:00",
+      "partida_brt": "18:10",
+      "chegada_brt": "19:15",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBGL",
+      "rota_nome": "Rio de Janeiro / Galeao"
+    },
+    {
+      "callsign": "GTI8537",
+      "numero_voo": "8537",
+      "airline_icao": "GTI",
+      "airline": "GTI",
+      "equipamento_icao": "B763",
+      "equipamento": "Boeing 767-300",
+      "assentos": "0",
+      "etapa": "1",
+      "tipo_operacao": "Internacional",
+      "tipo_servico": "NÃO REGULAR DE CARGA INTERNACIONAL",
+      "origem_icao": "KLCK",
+      "destino_icao": "SBSJ",
+      "partida_iso": "2026-06-10T19:00:00-03:00",
+      "chegada_iso": "2026-06-11T05:15:00-03:00",
+      "partida_brt": "19:00",
+      "chegada_brt": "05:15",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "KLCK",
+      "rota_nome": "KLCK"
+    }
+  ],
+  "departures": [
+    {
+      "callsign": "GLO2117",
+      "numero_voo": "2117",
+      "airline_icao": "GLO",
+      "airline": "GOL",
+      "equipamento_icao": "B738",
+      "equipamento": "Boeing 737-800",
+      "assentos": "186",
+      "etapa": "1",
+      "tipo_operacao": "Domestico",
+      "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
+      "origem_icao": "SBSJ",
+      "destino_icao": "SBGL",
+      "partida_iso": "2026-06-10T19:55:00-03:00",
+      "chegada_iso": "2026-06-10T20:55:00-03:00",
+      "partida_brt": "19:55",
+      "chegada_brt": "20:55",
+      "status": "programado",
+      "fonte": "SIROS/ANAC",
+      "rota": "SBGL",
+      "rota_nome": "Rio de Janeiro / Galeao"
+    }
+  ]
 }
