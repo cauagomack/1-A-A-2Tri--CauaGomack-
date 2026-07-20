@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T16:26:25.005898+00:00",
+  "updated_at": "2026-07-20T22:03:07.073430+00:00",
   "data_referencia": "2026-07-20",
   "airport_icao": "SBGR",
   "airport_name": "Sao Paulo / Guarulhos",
@@ -9584,10 +9584,10 @@
       "rota_nome": "Salvador"
     },
     {
-      "callsign": "LAN2934",
+      "callsign": "LPE2934",
       "numero_voo": "2934",
-      "airline_icao": "LAN",
-      "airline": "LATAM Internacional",
+      "airline_icao": "LPE",
+      "airline": "LPE",
       "equipamento_icao": "B763",
       "equipamento": "Boeing 767-300",
       "assentos": "238",
@@ -9606,10 +9606,10 @@
       "rota_nome": "SPJC"
     },
     {
-      "callsign": "LPE2934",
+      "callsign": "LAN2934",
       "numero_voo": "2934",
-      "airline_icao": "LPE",
-      "airline": "LPE",
+      "airline_icao": "LAN",
+      "airline": "LATAM Internacional",
       "equipamento_icao": "B763",
       "equipamento": "Boeing 767-300",
       "assentos": "238",
